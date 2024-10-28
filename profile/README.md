@@ -44,42 +44,42 @@
 
 <picture>
   <source srcset="./captures/inicio-dark.png" media="(prefers-color-scheme: dark)">
-  <img src="./frontend/public/images/captures/inicio-white.png" alt="Pagina de inicio">
+  <img src="./captures/inicio-white.png" alt="Pagina de inicio">
 </picture>
 
 ### Login
 
 <picture>
-  <source srcset="./frontend/public/images/captures/login-dark.png" media="(prefers-color-scheme: dark)">
+  <source srcset="./captures/login-dark.png" media="(prefers-color-scheme: dark)">
   <img src="./captures/login-white.png" alt="Formulario de login">
 </picture>
 
 ### Registro
 
 <picture>
-  <source srcset="./frontend/public/images/captures/registro-dark.png" media="(prefers-color-scheme: dark)">
-  <img src="./frontend/public/images/captures/registro-white.png" alt="Formulario Registro">
+  <source srcset="./captures/registro-dark.png" media="(prefers-color-scheme: dark)">
+  <img src="./captures/registro-white.png" alt="Formulario Registro">
 </picture>
 
 ### Chat
 
 <picture>
-  <source srcset="./frontend/public/images/captures/chat-dark.png" media="(prefers-color-scheme: dark)">
-  <img src="./frontend/public/images/captures/chat-white.png" alt="Pagina del Chat">
+  <source srcset="./captures/chat-dark.png" media="(prefers-color-scheme: dark)">
+  <img src="./captures/chat-white.png" alt="Pagina del Chat">
 </picture>
 
 ### Not Found
 
 <picture>
-  <source srcset="./frontend/public/images/captures/404-dark.png" media="(prefers-color-scheme: dark)">
-  <img src="./frontend/public/images/captures/404-white.png" alt="Not Found">
+  <source srcset="./captures/404-dark.png" media="(prefers-color-scheme: dark)">
+  <img src="./captures/404-white.png" alt="Not Found">
 </picture>
 
 ### Embeddings
 
 <picture>
-  <source srcset="./frontend/public/images/captures/process-dark.png" media="(prefers-color-scheme: dark)">
-  <img src="./frontend/public/images/captures/process-white.png" alt="Generar embeddigs">
+  <source srcset="./captures/process-dark.png" media="(prefers-color-scheme: dark)">
+  <img src="./captures/process-white.png" alt="Generar embeddigs">
 </picture>
 
 ## API Endpoints
@@ -106,3 +106,4 @@ Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o contactar a
 - **Nombre**: Marcos Damián Pool Canul
 - **Correo electrónico**: <damian.marcospool@gmail.com>
 - **GitHub**: [marcosd59](https://github.com/marcosd59)
+
