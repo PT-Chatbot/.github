@@ -43,7 +43,7 @@
 ### Inicio
 
 <picture>
-  <source srcset="./frontend/public/images/captures/inicio-dark.png" media="(prefers-color-scheme: dark)">
+  <source srcset="./captures/inicio-dark.png" media="(prefers-color-scheme: dark)">
   <img src="./frontend/public/images/captures/inicio-white.png" alt="Pagina de inicio">
 </picture>
 
