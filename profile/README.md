@@ -51,7 +51,7 @@
 
 <picture>
   <source srcset="./frontend/public/images/captures/login-dark.png" media="(prefers-color-scheme: dark)">
-  <img src="./frontend/public/images/captures/login-white.png" alt="Formulario de login">
+  <img src="./captures/login-white.png" alt="Formulario de login">
 </picture>
 
 ### Registro
